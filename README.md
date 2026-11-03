@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PayrollEase - follows the teacher's zips
 
 Windows Forms (.NET Framework 4.7.2), SQL Server LocalDB. Open `PayrollEase.sln`, press F5.
@@ -15,3 +16,7 @@ Sign in: admin / admin123.  Database file is created automatically at bin\Debug\
 ## Added (not in your zips) - see the chat message for the full list
 Login, Session, password hashing, Settings table, payroll/attendance logic (Core folder), Ui.cs helper,
 extra Database helpers (Insert, UpdateRow, DeleteRow, GetRow, Scalar, Transaction), dashboard, reports, printing.
+=======
+# OOP_payrollease
+pogi ang gumawa
+>>>>>>> 5982dfe5acca4c4660822951e94ba70ce2554c6d
