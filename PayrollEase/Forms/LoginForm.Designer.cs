@@ -143,7 +143,7 @@
             this.chkRemember.AutoSize = true;
             this.chkRemember.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkRemember.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
-            this.chkRemember.Location = new System.Drawing.Point(80, 312);
+            this.chkRemember.Location = new System.Drawing.Point(77, 312);
             this.chkRemember.Name = "chkRemember";
             this.chkRemember.Size = new System.Drawing.Size(135, 25);
             this.chkRemember.TabIndex = 17;
@@ -155,7 +155,7 @@
             this.chkShow.AutoSize = true;
             this.chkShow.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkShow.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
-            this.chkShow.Location = new System.Drawing.Point(208, 312);
+            this.chkShow.Location = new System.Drawing.Point(216, 312);
             this.chkShow.Name = "chkShow";
             this.chkShow.Size = new System.Drawing.Size(142, 25);
             this.chkShow.TabIndex = 18;
@@ -168,7 +168,7 @@
             this.lnkForgot.AutoSize = true;
             this.lnkForgot.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lnkForgot.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(148)))), ((int)(((byte)(136)))));
-            this.lnkForgot.Location = new System.Drawing.Point(346, 314);
+            this.lnkForgot.Location = new System.Drawing.Point(360, 314);
             this.lnkForgot.Name = "lnkForgot";
             this.lnkForgot.Size = new System.Drawing.Size(143, 21);
             this.lnkForgot.TabIndex = 19;
@@ -233,7 +233,7 @@
             this.lblLogo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(184)))), ((int)(((byte)(166)))));
             this.lblLogo.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLogo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.lblLogo.Location = new System.Drawing.Point(44, 48);
+            this.lblLogo.Location = new System.Drawing.Point(41, 44);
             this.lblLogo.Name = "lblLogo";
             this.lblLogo.Size = new System.Drawing.Size(56, 56);
             this.lblLogo.TabIndex = 2;
@@ -245,7 +245,7 @@
             this.lblBrand.AutoSize = true;
             this.lblBrand.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBrand.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.lblBrand.Location = new System.Drawing.Point(112, 50);
+            this.lblBrand.Location = new System.Drawing.Point(103, 44);
             this.lblBrand.Name = "lblBrand";
             this.lblBrand.Size = new System.Drawing.Size(220, 50);
             this.lblBrand.TabIndex = 3;
